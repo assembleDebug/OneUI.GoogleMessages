@@ -122,9 +122,9 @@ REPLACE="
 # Set what you want to display when installing your module
 
 print_modname() {
-  ui_print "          -.-            "
+  ui_print "           -.-            "
   ui_print "     Magisk installer     "
-  ui_print "      By: Shivvvvvv      "
+  ui_print "      By: Shivvvvvv       "
 }
 
 # Copy/extract your module files into $MODPATH in on_install.
