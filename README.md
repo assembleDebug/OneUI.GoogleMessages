@@ -9,7 +9,6 @@ This module just make it easy to get updates directly Play Store without needing
 There are some additional steps are needed to make it work.
 
 * Flash the module in Magisk 
-* Uninstall updates of Google Message app. (App info > Three dot menu on top right)
 * Clear data of Play Store and Reboot your device
 * Open Play Store and Install the Google Message update.
 
